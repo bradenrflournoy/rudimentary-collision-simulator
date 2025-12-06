@@ -1,0 +1,211 @@
+.body {
+    background: black;
+}
+
+.startButton {
+    font-family: arial;
+    font-size: 12px;
+    color: black;
+    background-color: green;
+}
+
+.stopButton {
+    font-family: arial;
+    font-size: 12px;
+    color: black;
+    background-color: red;
+}
+
+.keyVisual {
+    background-color: lime;
+    color: lime;
+    border-color: lime;
+    width: 100px;
+    height: 4px;
+}
+
+.keyText {
+    color: lime;
+    text-align: center;
+}
+
+.container {
+    width: 1260px;
+    height: 540px;
+    background: black;
+    border-color: lime;
+    border-style: solid;
+    position: relative;
+}
+
+.grid1 {
+    background: lime;
+    height: 2px;
+    width: 1260px;
+    position: absolute;
+    top: 40px;
+}
+
+.grid2 {
+    background: lime;
+    height: 2px;
+    width: 1260px;
+    position: absolute;
+    top: 140px;
+}
+
+.grid3 {
+    background: lime;
+    height: 2px;
+    width: 1260px;
+    position: absolute;
+    top: 240px;
+}
+
+.grid4 {
+    background: lime;
+    height: 2px;
+    width: 1260px;
+    position: absolute;
+    top: 340px;
+}
+
+.grid5 {
+    background: lime;
+    height: 2px;
+    width: 1260px;
+    position: absolute;
+    top: 440px;
+}
+
+.grid6 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 100px;
+}
+
+.grid7 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 200px;
+}
+
+.grid8 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 300px;
+}
+
+.grid9 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 400px;
+}
+
+.grid10 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 500px;
+}
+
+.grid11 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 600px;
+}
+
+.grid12 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 700px;
+}
+
+.grid13 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 800px;
+}
+
+.grid14 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 900px;
+}
+
+.grid15 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 1000px;
+}
+
+.grid16 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 1100px;
+}
+
+.grid17 {
+    background: lime;
+    height: 540px;
+    width: 2px;
+    position: absolute;
+    left: 1200px;
+}
+
+.blueBall {
+    width: 25px;
+    height: 25px;
+    background: blue;
+    border-color: lime;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.redBall {
+    width: 75px;
+    height: 75px;
+    background: red;
+    border-color: lime;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.greenBall {
+    width: 50px;
+    height: 50px;
+    background: green;
+    border-color: lime;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.ball {
+    border: 2px solid lime;
+    border-radius: 50%;
+    position: absolute;
+}
